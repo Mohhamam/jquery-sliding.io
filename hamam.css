@@ -1,0 +1,28 @@
+body{
+      background-color: rgb(221, 14, 28);
+      background-image:url(ironman.jfif);
+}
+
+#flip {
+      padding: 5px;
+      text-align: center;
+      background-color: beige;
+      border: solid 1px blue;
+      font-family: Arial;
+      color: rgb(10, 44, 238);
+      cursor: pointer;
+}
+
+#flip:hover{
+    background-color: rgb(192,192, 192);
+}
+    
+#panel {
+      padding: 50px;
+      text-align: center;
+      background-color: beige;
+      border: solid 1px blue;
+      font-family: sans-serif;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      display: none;
+    }
